@@ -9,7 +9,7 @@ Description
 This site is a home page for my portfolio. It includes my skills , Work Experience , Education and projects .
 
 Contact Details
-vartikasingh019@gmail.com
+vartikasingh1929@gmail.com
 
 Technologies Used
 HTML , CSS , JAVASCRIPT , BOOTSTRAP
